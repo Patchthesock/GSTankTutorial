@@ -1,3 +1,10 @@
+# Mac Files
+.DS_Store
+.swp
+
+# Rider IDE
+.idea/
+
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
